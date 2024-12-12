@@ -11,6 +11,7 @@ import {
 const Header = () => (
   <header style={styles.header}>
     <h1>UT HUB</h1>
+
   </header>
 );
 
@@ -20,36 +21,36 @@ const Home = () => {
       title: "Pokémon",
       homepage: "https://pokemon-api.ut-cphb.dk/",
       api: "https://pokemonapi.ut-cphb.dk/api/pokemons",
-      backend: "https://github.com/Umair-230104/PokemonAPIDeployed-Backend",
-      frontend: "https://github.com/Umair-230104/PokemonAPIDeployed-Frontend",
+      //backend: "https://github.com/Umair-230104/PokemonAPIDeployed-Backend",
+      //frontend: "https://github.com/Umair-230104/PokemonAPIDeployed-Frontend",
     },
     {
       title: "Atlas",
       homepage: "https://atlas-api.ut-cphb.dk/",
       api: "https://atlasapi.ut-cphb.dk/api/countries",
-      backend: "https://github.com/Umair-230104/AtlasAPIDeployed-Backend",
-      frontend: "https://github.com/Umair-230104/AtlasAPIDeployed-Frontend",
+      //backend: "https://github.com/Umair-230104/AtlasAPIDeployed-Backend",
+      //frontend: "https://github.com/Umair-230104/AtlasAPIDeployed-Frontend",
     },
     {
       title: "Invitation",
       homepage: "https://invitation.ut-cphb.dk/",
       api: "Ikke tilgængelig",
-      backend: "https://github.com/Umair-230104/InvitationProjektBackEnd",
-      frontend: "https://github.com/Umair-230104/InvitationProjektFrontEnd",
+      //backend: "https://github.com/Umair-230104/InvitationProjektBackEnd",
+      //frontend: "https://github.com/Umair-230104/InvitationProjektFrontEnd",
     },
     {
       title: "Hotel",
       homepage: "Ikke tilgængelig",
       api: "https://hotelapi.ut-cphb.dk/api/hotels",
-      backend: "Ikke tilgængelig",
-      frontend: "Ikke tilgængelig",
+     //backend: "Ikke tilgængelig",
+      //frontend: "Ikke tilgængelig",
     },
     {
       title: "Trip",
       homepage: "https://tripapp.ut-cphb.dk/",
       api: "https://tripapi.cphbusinessapps.dk/api/trips",
-      backend: "Ikke tilgængelig",
-      frontend: "https://github.com/Umair-230104/TripOgGuidesFreTask",
+      //backend: "Ikke tilgængelig",
+      //frontend: "https://github.com/Umair-230104/TripOgGuidesFreTask",
     },
   ];
 
